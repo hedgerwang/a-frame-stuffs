@@ -7,7 +7,7 @@ Stuffs for Learning A-Frame
 1. Run `npm install` to install NPM dependencies.
 1. Install [mkcert](https://github.com/FiloSottile/mkcert)
 1. run `mkcert --install` to install cert locally.
-1. run `mkcert localhost`, it should the file `localhost.pem` and `localhost-key.pem` locally to enable HTTPS connection in local web server.
+1. run `mkcert localhost`, and use `"12345"` as default passphrase. it should the file `localhost.pem` and `localhost-key.pem` locally to enable HTTPS connection in local web server.
 
 ### Development
 
