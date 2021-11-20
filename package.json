@@ -1,0 +1,10 @@
+{
+  "name": "a-frame-stuffs",
+  "version": "0.0.1",
+  "scripts": {
+    "server": "node node_modules/live-server/live-server.js  --port=8080 --https=https.conf.js src/"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
